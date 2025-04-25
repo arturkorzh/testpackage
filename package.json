@@ -1,0 +1,11 @@
+{
+  "name": "com.plarium.unity.tps4503",
+  "version": "1.0.5",
+  "displayName": "tps4503",
+  "description": "test unity package update after reimport",
+  "unity": "2020.3",
+  "author": {
+    "name": "a.korzh",
+    "email": "a.korzh@plarium.com"
+  }
+}
